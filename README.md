@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Heet Chheda, a CS graduate student aiming to work as a Software Developer or Data Analyst, I have worked on several projects from multiple domains ranging from web development, app development to blockchain and data analytics. Please feel free to reach out, thank you.
+Hi there, I'm Heet Chheda, a CS graduate student aiming to work as a Software Developer or Data Analyst, I have worked on several projects from multiple domains ranging from web development, app development to blockchain and data analytics. Please feel free to reach out, thank you.
 
 - 🔭 I’m currently working on a career towards front-end development using the MERN stack.
 - 🌱 I’m currently pursuing a masters in Computer Science degree at University at Buffalo.
