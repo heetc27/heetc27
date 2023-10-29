@@ -9,5 +9,5 @@ Hi there, I'm Heet Chheda, a CS graduate student aiming to work as a Software De
 
 
 https://leetcode.com/leetcodehemi/
-<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" class="img-fluid" alt="" height:20px>
+<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" class="img-fluid" alt="" height = 20px>
                 
