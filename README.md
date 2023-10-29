@@ -7,5 +7,6 @@ Hi there, I'm Heet Chheda, a CS graduate student aiming to work as a Software De
 - 📫 How to reach me: linkedin.com/in/heet-chheda-aba987202 | heetc27@gmail.com
 - ⚡ Fun fact: I have a written a research paper on Game Engine Architecture: https://ieeexplore.ieee.org/document/9579618
 
-LeetCode SQL 50<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" class="img-fluid" alt="" height = 60px>
+<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" class="img-fluid" alt="" height = 60px>
+LeetCode SQL 50
                 
