@@ -9,4 +9,6 @@ Hi there, I'm Heet Chheda, a CS graduate student aiming to work as a Software De
 
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" class="img-fluid" alt="" height = 60px>
 LeetCode SQL 50
+
                 
+![Leetcode Stats](https://leetcard.jacoblin.cool/leetcodehemi/?ext=heatmap)
