@@ -5,7 +5,7 @@ Hi there, I'm Heet Chheda, a CS graduate student aiming to work as a Software De
 - 👯 I’m looking to collaborate on web development and data science based open source projects.
 - 🤔 I’m looking for full-time work opportuinities.
 - 📫 How to reach me: linkedin.com/in/heet-chheda-aba987202 | heetc27@gmail.com
-- ⚡ Fun fact: I have a written a research paper on Game Engine Architecture: https://ieeexplore.ieee.org/document/9579618
+- ⚡ Research: I have a written a research paper on Game Engine Architecture: https://ieeexplore.ieee.org/document/9579618
 
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" class="img-fluid" alt="" height = 60px>
 LeetCode SQL 50
