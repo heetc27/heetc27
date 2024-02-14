@@ -12,3 +12,5 @@ LeetCode SQL 50
 
                 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/leetcodehemi/?ext=heatmap)
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=leetcodehemi&theme=dark" alt="LeetCode Badges"/>
