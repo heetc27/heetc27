@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Heet Chheda
 
-I'm a Computer Science graduate student, I have 2+ years of industry experience with a strong foundation in data analysis warehousing, data modeling, and translating requirements into specifications design. I am aiming to work as a Data Analyst, I have worked on several projects from multiple domains like data analytics, sales analytics, web development, app development, and blockchain. I love leveraging data to uncover insights and drive informed decision-making. Take a look at my projects and contributions below! Please feel free to reach out, thank you.
+<justify> I'm a Computer Science graduate student, I have 2+ years of industry experience with a strong foundation in data analysis warehousing, data modeling, and translating requirements into specifications design. I am aiming to work as a Data Analyst, I have worked on several projects from multiple domains like data analytics, sales analytics, web development, app development, and blockchain. I love leveraging data to uncover insights and drive informed decision-making. Take a look at my projects and contributions below! Please feel free to reach out, thank you.
 
 - 🔭 I’m currently looking to work for a career in Data Analytics.
 - 🌱 I have a Masters in Computer Science degree from the University at Buffalo.
